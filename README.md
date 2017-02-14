@@ -1,6 +1,5 @@
 # 100
- The first hundred days is often a good indicator of the success of a first-term president. [During FDR's presidency, in the first 100 days of 73rd Congress, he signed **76** bills into law. By comparison, Ronald Reagan took the most executive actions in modern history, revoking **18** executive orders while adding **18** of his own. ](https://fivethirtyeight.com/features/a-presidents-first-100-days-really-do-matter/)<img align="right" src="img/poly_obama.png" alt="polygon trump" style="height:300px;"> Although many are still in denial of the historic upset of a Trump victory, his 100 days is well underway. And if he continues his unconventional record, this 100 days will be full of surprises.
-
+ The first hundred days is often a good indicator of the success of a first-term president. [During FDR's presidency, in the first 100 days of 73rd Congress, he signed **76** bills into law. By comparison, Ronald Reagan took the most executive actions in modern history, revoking **18** executive orders while adding **18** of his own. ](https://fivethirtyeight.com/features/a-presidents-first-100-days-really-do-matter/)<img align="right" src="img/poly_obama.png" alt="polygon trump" style="max-width:100px;"> Although many are still in denial of the historic upset of a Trump victory, his 100 days is well underway. And if he continues his unconventional record, this 100 days will be full of surprises.
 
 ## Project Prospectus:
 ### Key metrics
